@@ -1,0 +1,77 @@
+Qual palavra-chave é usada para declarar uma variável em Java?  
+A) let  
+B) var  
+C) int  
+D) declare  
+E) define  
+C
+O que significa IDE no contexto de programação?  
+A) Interface Digital Especial  
+B) Internet de Desenvolvimento Empresarial  
+C) Integrated Development Environment  
+D) Interface de Dados e Execução  
+E) Interface de Desenvolvimento Estático  
+C
+O que acontece se esquecermos de colocar `;` no final de uma instrução em Java?  
+A) Nada  
+B) O código roda mais rápido  
+C) O compilador lança erro  
+D) A instrução é ignorada  
+E) Gera um warning  
+C
+64. Qual a extensão de um arquivo de código fonte Java?  
+A) .jav  
+B) .jv  
+C) .java  
+D) .class  
+E) .exe  
+C
+O que `System.out.println("Olá");` faz?  
+A) Lê um valor  
+B) Imprime "Olá" na tela  
+C) Salva no banco de dados  
+D) Fecha o programa  
+E) Espera o usuário digitar  
+B
+Para que serve um loop `while`?  
+A) Rodar uma vez  
+B) Verificar um valor  
+C) Repetir enquanto uma condição for verdadeira  
+D) Encerrar o programa  
+E) Escrever na tela  
+C
+Como representamos uma cadeia de caracteres em Java?  
+A) char  
+B) int  
+C) "texto"  
+D) 'texto'  
+E) float  
+C
+Qual é o valor de `true && false`?  
+A) true  
+B) false  
+C) null  
+D) 1  
+E) 0  
+B
+Qual função converte um número inteiro em string?  
+A) Integer.toString()  
+B) parseInt()  
+C) cast()  
+D) string()  
+E) convert()  
+A
+O que a estrutura `for` exige?  
+A) Apenas a condição  
+B) Um nome de variável  
+C) Início, condição e incremento  
+D) Um valor booleano  
+E) Um array  
+C
+Qual comando Java encerra um método?  
+A) stop  
+B) quit  
+C) return  
+D) end  
+E) close  
+C
