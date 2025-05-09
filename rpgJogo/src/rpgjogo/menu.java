@@ -32,7 +32,7 @@ public class menu {
             System.out.println("1 )Iniciar o jogo");
             System.out.println("2 )Instruções");
             System.out.println("3 )Sair do jogo");
-            System.out.print("Escolha uma opção: ");
+            System.out.print("Escolha uma opção;;;: ");
             menu = input.nextInt();
             
             
